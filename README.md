@@ -5,6 +5,11 @@ A simple fabric mod that allows you to entirely remove the delay between placing
 Its like literally 5 lines of code lmao
 theres no check for singleplayer so crystal pvp in singleplayer breaks somewhat.
 
+
+# IF YOUR LAZY
+
+https://github.com/JanCantCode/crystal-zero-delay/releases/tag/publish
+
 # BUILDING YOURSELF
 
 1.) git clone https://github.com/JanCantCode/crystal-zero-delay/
