@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "crystalspeed",
+  "version": "${version}",
+  "name": "Crystalspeed",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/crystalspeed/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "tk.jandev.crystalspeed.client.CrystalspeedClient"
+    ],
+    "main": [
+      "tk.jandev.crystalspeed.Crystalspeed"
+    ]
+  },
+  "mixins": [
+    "crystalspeed.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}
